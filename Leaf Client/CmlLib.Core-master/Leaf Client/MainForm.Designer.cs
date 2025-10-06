@@ -655,7 +655,7 @@
             this.tbChangeVersion.Font = new System.Drawing.Font("Bahnschrift Condensed", 60F, System.Drawing.FontStyle.Bold);
             this.tbChangeVersion.ForeColor = System.Drawing.Color.White;
             this.tbChangeVersion.HoverState.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(60)))), ((int)(((byte)(60)))), ((int)(((byte)(60)))));
-            this.tbChangeVersion.Location = new System.Drawing.Point(726, 256);
+            this.tbChangeVersion.Location = new System.Drawing.Point(1424, 490);
             this.tbChangeVersion.Margin = new System.Windows.Forms.Padding(20, 25, 20, 25);
             this.tbChangeVersion.Name = "tbChangeVersion";
             this.tbChangeVersion.PasswordChar = '\0';
@@ -712,7 +712,7 @@
             this.lbChangeVersion.AutoSize = true;
             this.lbChangeVersion.Font = new System.Drawing.Font("Bahnschrift", 11F);
             this.lbChangeVersion.ForeColor = System.Drawing.Color.Gray;
-            this.lbChangeVersion.Location = new System.Drawing.Point(758, 354);
+            this.lbChangeVersion.Location = new System.Drawing.Point(1456, 588);
             this.lbChangeVersion.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbChangeVersion.Name = "lbChangeVersion";
             this.lbChangeVersion.Size = new System.Drawing.Size(164, 23);
@@ -725,7 +725,7 @@
             this.lbMVersion.AutoSize = true;
             this.lbMVersion.Font = new System.Drawing.Font("Bahnschrift Condensed", 60F, System.Drawing.FontStyle.Bold);
             this.lbMVersion.ForeColor = System.Drawing.Color.White;
-            this.lbMVersion.Location = new System.Drawing.Point(724, 247);
+            this.lbMVersion.Location = new System.Drawing.Point(1422, 481);
             this.lbMVersion.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbMVersion.Name = "lbMVersion";
             this.lbMVersion.Size = new System.Drawing.Size(233, 120);
@@ -742,7 +742,7 @@
             this.btnMPLaunch.HoverState.FillColor = System.Drawing.Color.SeaGreen;
             this.btnMPLaunch.Image = global::Leaf_Client.Properties.Resources.leaf_client_fade;
             this.btnMPLaunch.ImageSize = new System.Drawing.Size(23, 23);
-            this.btnMPLaunch.Location = new System.Drawing.Point(630, 392);
+            this.btnMPLaunch.Location = new System.Drawing.Point(1257, 626);
             this.btnMPLaunch.Margin = new System.Windows.Forms.Padding(4);
             this.btnMPLaunch.Name = "btnMPLaunch";
             this.btnMPLaunch.PressedColor = System.Drawing.Color.SeaGreen;
